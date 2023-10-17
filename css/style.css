@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+.container{
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+#count-down{
+    font-size: 30px;
+}
