@@ -1,6 +1,6 @@
 const countDownElement = document.getElementById('count-down')
 
-let clock = 10
+let clock = 30
 
 const idInterval = setInterval(countDown, 1000)
 
